@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+ 
+
+ 
+.login_form{
+  background-color: rgb(173, 215, 206);
+  width: 80%;
+  padding-top: 2rem;
+  box-shadow: 5px 10px #888888;
+  border-style: double;
+  margin: auto;
+  border-radius: 2rem;
+}
+.signinbtn{
+  width: 100%;
+}
+.admin_page{
+  background-color: rgb(194, 218, 196);
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+}
+.list-group-item{
+  background-color: rgb(151, 209, 213) !important;
+  margin-top: 0.5rem; 
+}
+.list-group-item:hover{
+  background-color: coral !important;  
+}
+.logoutPage{
+  background-color: rgb(173, 215, 206);
+  width: 80%;
+  padding-top: 2rem;
+  box-shadow: 5px 10px #888888;
+  border-style: double;
+  margin: auto;
+  border-radius: 2rem;
+}
